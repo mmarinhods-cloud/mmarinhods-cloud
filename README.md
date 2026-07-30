@@ -20,7 +20,7 @@ Construindo aplicações modernas, APIs escaláveis e soluções inteligentes pa
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência da Computação**.
 
@@ -41,7 +41,7 @@ Meu objetivo é construir sistemas bem estruturados, APIs performáticas e aplic
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 <p align="center">
 
@@ -51,7 +51,7 @@ Meu objetivo é construir sistemas bem estruturados, APIs performáticas e aplic
 
 ---
 
-# 📌 Projetos em Destaque
+# Projetos em Destaque
 
 ## 💬 NexusChat
 
@@ -101,7 +101,7 @@ Sistema simples para gerenciamento de tarefas.
 
 ---
 
-# 📚 Atualmente Estudando
+# Atualmente Estudando
 
 - FastAPI
 - Docker
@@ -112,7 +112,7 @@ Sistema simples para gerenciamento de tarefas.
 
 ---
 
-# 📫 Contato
+# Contato
 
 🌐 **Portfólio**  
 https://mthsantos.vercel.app
