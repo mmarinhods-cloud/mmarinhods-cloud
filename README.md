@@ -1,51 +1,47 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:38BDF8&text=Matheus%20Santos&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38"/>
+
 # Matheus Santos
 
-### Software Engineer • Python • FastAPI • TypeScript • Next.js
+### Engenheiro de Software • Python • FastAPI • TypeScript • Next.js
 
-Building scalable backend systems, modern web applications and AI-powered solutions.
+Construindo aplicações modernas, APIs escaláveis e soluções inteligentes para problemas reais.
 
 <p>
-
-<a href="https://mthsantos.vercel.app">
-Portfolio
-</a>
-•
-<a href="https://linkedin.com/in/mthsantos061">
-LinkedIn
-</a>
-•
-<a href="mailto:mmarinhods@gmail.com">
-Email
-</a>
-
+  <a href="https://mthsantos.vercel.app">🌐 Portfólio</a>
+  •
+  <a href="https://linkedin.com/in/mthsantos061">💼 LinkedIn</a>
+  •
+  <a href="mailto:mmarinhods@gmail.com">📧 E-mail</a>
 </p>
 
 </div>
 
 ---
 
-# About Me
+# 👨‍💻 Sobre mim
 
-I'm a Software Engineer passionate about building modern applications and solving real-world problems through technology.
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Ciência da Computação**.
 
-Currently focused on:
+Tenho paixão por Engenharia de Software e por desenvolver aplicações modernas, seguras e escaláveis, sempre buscando transformar ideias em soluções que gerem impacto real.
 
-- Backend Development
-- Artificial Intelligence
+Atualmente estou aprofundando meus conhecimentos em:
+
+- Desenvolvimento Back-end
+- Inteligência Artificial
 - FastAPI
 - Python
 - Next.js
 - TypeScript
-- Cloud Computing
-- Software Architecture
+- Computação em Nuvem
+- Arquitetura de Software
 
-I enjoy designing scalable systems, clean APIs and maintainable code.
+Meu objetivo é construir sistemas bem estruturados, APIs performáticas e aplicações de alta qualidade seguindo boas práticas de desenvolvimento.
 
 ---
 
-# Tech Stack
+# 🚀 Tecnologias
 
 <p align="center">
 
@@ -55,25 +51,25 @@ I enjoy designing scalable systems, clean APIs and maintainable code.
 
 ---
 
-# Featured Projects
+# 📌 Projetos em Destaque
 
-## NexusChat
+## 💬 NexusChat
 
-Modern real-time chat application built with TypeScript.
+Aplicação de chat em tempo real desenvolvida com TypeScript.
 
-**Stack**
+**Tecnologias**
 
 - TypeScript
 - React
-- Modern UI
+- Interface Moderna
 
 ---
 
-## Portfolio
+## 🌐 Portfólio
 
-Interactive portfolio focused on immersive user experience.
+Meu portfólio pessoal desenvolvido para apresentar projetos, habilidades e experiências.
 
-**Stack**
+**Tecnologias**
 
 - React
 - JavaScript
@@ -81,23 +77,23 @@ Interactive portfolio focused on immersive user experience.
 
 ---
 
-## Python Browser
+## 🐍 Navegador em Python
 
-Desktop browser developed in Python.
+Aplicação desktop desenvolvida em Python simulando um navegador web.
 
-**Stack**
+**Tecnologias**
 
 - Python
-- GUI
-- Desktop Application
+- Interface Gráfica
+- Aplicação Desktop
 
 ---
 
-## Task Manager
+## ✅ Gerenciador de Tarefas
 
-Simple task management system.
+Sistema simples para gerenciamento de tarefas.
 
-**Stack**
+**Tecnologias**
 
 - HTML
 - CSS
@@ -105,41 +101,34 @@ Simple task management system.
 
 ---
 
-# GitHub Analytics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmarinhods-cloud&theme=tokyo-night&hide_border=true"/>
-
----
-
-# Currently Learning
+# 📚 Atualmente Estudando
 
 - FastAPI
 - Docker
 - PostgreSQL
 - AWS
-- Artificial Intelligence
+- Inteligência Artificial
 - Large Language Models (LLMs)
 
 ---
 
-# Contact
+# 📫 Contato
 
-Portfolio
-
+🌐 **Portfólio**  
 https://mthsantos.vercel.app
 
-LinkedIn
-
+💼 **LinkedIn**  
 https://linkedin.com/in/mthsantos061
 
-Email
-
+📧 **E-mail**  
 mmarinhods@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ Always learning, always building.
+### ⭐ Sempre aprendendo. Sempre construindo.
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:38BDF8,50:2563EB,100:0F172A"/>
+
 </div>
