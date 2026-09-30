@@ -16,7 +16,7 @@ Construo aplicações e APIs com foco em qualidade, clareza e problemas reais.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **Ciência da Computação**. Tenho interesse em engenharia de software, desenvolvimento back-end e inteligência artificial.
 
-Atualmente estou estudando **FastAPI, Python, TypeScript, Next.js, PostgreSQL, Docker, AWS e LLMs**.
+Atualmente estou aprofundando **FastAPI, Python, PostgreSQL, AWS e LLMs**.
 
 ## Tecnologias
 
