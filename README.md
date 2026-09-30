@@ -31,8 +31,6 @@ Atualmente estou estudando **FastAPI, Python, TypeScript, Next.js, PostgreSQL, D
 - **Navegador em Python** — aplicação desktop com interface gráfica.
 - **Gerenciador de Tarefas** — aplicação web simples com HTML, CSS e JavaScript.
 
-## Snake Game
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mmarinhods-cloud/mmarinhods-cloud/output/github-contribution-grid-snake.svg" alt="Animação Snake do gráfico de contribuições do GitHub" />
 </p>
