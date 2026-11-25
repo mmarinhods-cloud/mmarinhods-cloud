@@ -1,0 +1,1 @@
+Os desenhos dos logotipos vêm do [Simple Icons](https://github.com/simple-icons/simple-icons/tree/develop/icons). A licença dos arquivos da coleção é [CC0 1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). As marcas pertencem a seus respectivos titulares.
